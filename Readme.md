@@ -22,6 +22,23 @@ This project showcases how to use the **Gemini API** to implement advanced promp
 
 ---
 
+
+**Description of Output:**  
+The model generates a Python function to calculate the factorial of a number using recursion. The output demonstrates how PAL enables the model to write functional code for specific tasks.
+
+---
+
+### Summary of Outputs
+| **Technique**               | **Output Description**                                                                 |
+|-----------------------------|---------------------------------------------------------------------------------------|
+| Few-Shot Learning           | Classifies a new email as "General Inquiry" based on provided examples.               |
+| Chain-of-Thought (CoT)      | Solves a math problem step-by-step, calculating weekly revenue for a bakery.          |
+| Self-Consistency            | Verifies a false statement using two distinct reasoning paths.                        |
+| Generate Knowledge Prompting| Explains quantum computing in simple terms with key points.                           |
+| Program-aided Language Model| Generates Python code to calculate the factorial of a number using recursion.         |
+
+---
+
 ## Setup
 To run this project locally, follow these steps:
 
