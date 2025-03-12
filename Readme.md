@@ -17,8 +17,7 @@ This project demonstrates the use of **advanced** and **fundamental prompting te
   - [Self-Consistency](#self-consistency)
   - [Generate Knowledge Prompting](#generate-knowledge-prompting)
   - [Program-aided Language Models (PAL)](#program-aided-language-models-pal)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ---
 
@@ -26,13 +25,6 @@ This project demonstrates the use of **advanced** and **fundamental prompting te
 This project showcases how to use the **Gemini API** to implement both **fundamental** and **advanced prompting techniques** for various tasks, such as customer support classification, math problem-solving, fact verification, code generation, and more. Each technique is explained with a use case and example implementation.
 
 ---
-
-## Setup
-To run this project locally, follow these steps:
-
-1. **Install the Gemini library**:
-   ```bash
-   pip install google-generativeai
 
 ---
 
