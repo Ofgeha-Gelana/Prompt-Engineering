@@ -48,3 +48,7 @@ To run this project locally, follow these steps:
 1. **Install the Gemini library**:
    ```bash
    pip install google-generativeai
+
+
+## Task 2
+[**ReAct**](https://medium.com/@ofgehagelana2019/react-fed1fc167694)
