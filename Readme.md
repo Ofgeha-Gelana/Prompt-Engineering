@@ -50,5 +50,5 @@ To run this project locally, follow these steps:
    pip install google-generativeai
 
 
-## Task 2
+## **Task 2**
 [**ReAct**](https://medium.com/@ofgehagelana2019/react-fed1fc167694)
