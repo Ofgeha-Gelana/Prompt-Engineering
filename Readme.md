@@ -1,11 +1,16 @@
-# Advanced Prompt Engineering with Gemini API
+# Advanced and Fundamental Prompt Engineering with Gemini API
 
-This project demonstrates the use of **advanced prompting techniques** with the **Gemini API** to solve real-world problems. It includes implementations of five advanced techniques: Few-Shot Learning, Chain-of-Thought (CoT) Prompting, Self-Consistency, Generate Knowledge Prompting, and Program-aided Language Models (PAL).
+This project demonstrates the use of **advanced** and **fundamental prompting techniques** with the **Gemini API** to solve real-world problems. It includes implementations of both fundamental techniques (Instructional Prompts, Role Prompting, Text Classification, Code Generation, and Reasoning) and advanced techniques (Few-Shot Learning, Chain-of-Thought (CoT) Prompting, Self-Consistency, Generate Knowledge Prompting, and Program-aided Language Models (PAL)).
 
 ## Table of Contents
 - [Overview](#overview)
 - [Setup](#setup)
-- [Use Cases](#use-cases)
+- [Fundamental Techniques](#fundamental-techniques)
+  - [Instructional Prompts](#instructional-prompts)
+  - [Role Prompting](#role-prompting)
+  - [Text Classification](#text-classification)
+  - [Code Generation](#code-generation)
+  - [Reasoning](#reasoning)
 - [Advanced Techniques](#advanced-techniques)
   - [Few-Shot Learning](#few-shot-learning)
   - [Chain-of-Thought (CoT) Prompting](#chain-of-thought-cot-prompting)
@@ -18,13 +23,16 @@ This project demonstrates the use of **advanced prompting techniques** with the 
 ---
 
 ## Overview
-This project showcases how to use the **Gemini API** to implement advanced prompting techniques for various tasks, such as customer support classification, math problem-solving, fact verification, and code generation. Each technique is explained with a use case and example implementation.
+This project showcases how to use the **Gemini API** to implement both **fundamental** and **advanced prompting techniques** for various tasks, such as customer support classification, math problem-solving, fact verification, code generation, and more. Each technique is explained with a use case and example implementation.
 
 ---
 
+## Setup
+To run this project locally, follow these steps:
 
-**Description of Output:**  
-The model generates a Python function to calculate the factorial of a number using recursion. The output demonstrates how PAL enables the model to write functional code for specific tasks.
+1. **Install the Gemini library**:
+   ```bash
+   pip install google-generativeai
 
 ---
 
