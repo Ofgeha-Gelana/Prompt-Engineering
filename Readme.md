@@ -26,18 +26,21 @@ This project showcases how to use the **Gemini API** to implement both **fundame
 
 ---
 
----
-
-### Summary of Outputs
-| **Technique**               | **Output Description**                                                                 |
-|-----------------------------|---------------------------------------------------------------------------------------|
-| Few-Shot Learning           | Classifies a new email as "General Inquiry" based on provided examples.               |
-| Chain-of-Thought (CoT)      | Solves a math problem step-by-step, calculating weekly revenue for a bakery.          |
-| Self-Consistency            | Verifies a false statement using two distinct reasoning paths.                        |
-| Generate Knowledge Prompting| Explains quantum computing in simple terms with key points.                           |
-| Program-aided Language Model| Generates Python code to calculate the factorial of a number using recursion.         |
-
----
+## Summary of Outputs
+| **Technique**                     | **Output Description**                                                                 |
+|-----------------------------------|---------------------------------------------------------------------------------------|
+| **Fundamental Techniques**        |                                                                                       |
+| Instructional Prompts             | Provides step-by-step instructions for baking a chocolate cake.                       |
+| Role Prompting                    | Explains the causes of World War I as a history teacher.                              |
+| Text Classification               | Classifies a text about a smartphone as "Technology."                                 |
+| Code Generation                   | Generates a Python function to check if a number is prime.                            |
+| Reasoning                         | Calculates the average speed of a train (60 miles per hour).                          |
+| **Advanced Techniques**           |                                                                                       |
+| Few-Shot Learning                 | Classifies a new email as "General Inquiry" based on provided examples.               |
+| Chain-of-Thought (CoT) Prompting  | Solves a math problem step-by-step, calculating weekly revenue for a bakery.          |
+| Self-Consistency                  | Verifies a false statement using two distinct reasoning paths.                        |
+| Generate Knowledge Prompting      | Explains quantum computing in simple terms with key points.                           |
+| Program-aided Language Models (PAL)| Generates Python code to calculate the factorial of a number using recursion.         |
 
 ## Setup
 To run this project locally, follow these steps:
