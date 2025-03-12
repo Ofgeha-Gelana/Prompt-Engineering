@@ -1,4 +1,4 @@
-# Advanced and Fundamental Prompt Engineering with Gemini API
+# Fundamental and Advanced Prompt Engineering with Gemini API
 
 This project demonstrates the use of **advanced** and **fundamental prompting techniques** with the **Gemini API** to solve real-world problems. It includes implementations of both fundamental techniques (Instructional Prompts, Role Prompting, Text Classification, Code Generation, and Reasoning) and advanced techniques (Few-Shot Learning, Chain-of-Thought (CoT) Prompting, Self-Consistency, Generate Knowledge Prompting, and Program-aided Language Models (PAL)).
 
